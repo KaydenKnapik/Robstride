@@ -6,7 +6,7 @@ In order to make use of this repo, one would need access to a Robstride Motor (O
 
 
 # 1. Setup 
-Create a virtual enviornment
+Create a 'virtual enviornment'
 
 ''' python3.10 -m venv Robstride '''
 
