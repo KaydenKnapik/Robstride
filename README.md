@@ -3,3 +3,13 @@ After working with the Robstride motors for quite some time now, I determined it
 
 # Needed Hardware
 In order to make use of this repo, one would need access to a Robstride Motor (O1, O2, O3 or O4), and a CAN transciever capable of utilizing socketcan.
+
+
+# Setup 
+
+# Programming the Motor
+
+# Questions? 
+If you have any questions whatsoever feel free to mention me in the robstride discord or reach out to me by email at ailuroxrobotics@gmail.com
+
+
