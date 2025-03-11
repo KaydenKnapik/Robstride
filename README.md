@@ -8,7 +8,19 @@ In order to make use of this repo, one would need access to a Robstride Motor (O
 # 1. Setup 
 Create a virtual enviornment
 
-python3.10 -m venv Robstride
+'''python3.10 -m venv Robstride'''
+
+Activate the Virtual Enviornment
+
+'''source Robstride/bin/activate'''
+
+Install Brian Smith's SDK:
+
+The simplest way to install is via `pip`:
+
+```python3 -m pip install robstride```
+
+
 
 # Programming the Motor
 
