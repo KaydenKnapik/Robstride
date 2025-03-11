@@ -5,7 +5,10 @@ After working with the Robstride motors for quite some time now, I determined it
 In order to make use of this repo, one would need access to a Robstride Motor (O1, O2, O3 or O4), and a CAN transciever capable of utilizing socketcan.
 
 
-# Setup 
+# 1. Setup 
+Create a virtual enviornment
+
+python3.10 -m venv Robstride
 
 # Programming the Motor
 
