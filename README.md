@@ -26,6 +26,10 @@ The simplest way to install is via `pip`:
 
 ```python3 -m pip install robstride```
 
+Then to setup the can controller run: (This must be run everytime reconnecting to the motor)
+ ```sudo ip link set can0 type can bitrate 1000000```
+ Then
+ ```sudo ip link set can0 up```
 
 
 # Programming the Motor
