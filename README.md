@@ -36,7 +36,19 @@ Then to setup the can controller run: (This must be run everytime reconnecting t
 
 
 # Programming the Motor
+I have attached some basic code to this repo. In this repo you will find a 
 
+```findangle.py```
+
+This code allows you to find the motor angles that you may want your robot joint to rotate to.
+
+```Rotateangles.py```
+
+This code allows you to rotate one or more motors to set positions one after another.
+
+```simultaneous.py```
+
+This last code example allows you to move multiple motors at the same time.
 # Questions? 
 If you have any questions whatsoever feel free to mention me in the robstride discord or reach out to me by email at ailuroxrobotics@gmail.com
 
