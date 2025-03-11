@@ -7,7 +7,11 @@ In order to make use of this repo, one would need access to a Robstride Motor (O
 Robstride Motor Link: https://robstride.com/
 
 Recommended Debugger Purchase Link (Choose Isolated Version): https://a.aliexpress.com/_mMUzKlH
-# 1. Setup 
+
+# 1. Hardware Setup
+
+
+# 2. Code Setup 
 Create a 'virtual enviornment'
 
 ```python3.10 -m venv Robstride```
