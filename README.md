@@ -8,6 +8,8 @@ Robstride Motor Link: https://robstride.com/
 
 Recommended Debugger Purchase Link (Choose Isolated Version): https://a.aliexpress.com/_mMUzKlH
 
+Power supply (I am using 40V battery)
+
 # 1. Hardware Setup
 
 
