@@ -11,7 +11,7 @@ Recommended Debugger Purchase Link (Choose Isolated Version): https://a.aliexpre
 Power supply (I am using 40V battery)
 
 # 1. Hardware Setup
-![Uploading IMG_0260.jpeg…]()
+![IMG_0260](https://github.com/user-attachments/assets/c9809cf0-6164-491e-9297-b52acd4c3f37)
 
 
 # 2. Code Setup 
