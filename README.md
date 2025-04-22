@@ -11,6 +11,7 @@ Recommended Debugger Purchase Link (Choose Isolated Version): https://a.aliexpre
 Power supply (I am using 40V battery)
 
 # 1. Hardware Setup
+The connections can be found in the robstride manuals, but power from the battery goes to power the motor, and the ground is shared from the battery to the motor and the can transciever. The Can high and low cables are also connected to the motor as shown in the manual.
 ![IMG_0260](https://github.com/user-attachments/assets/c9809cf0-6164-491e-9297-b52acd4c3f37)
 
 
